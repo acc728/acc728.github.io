@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+#Página de acc728
+#Esta es mi página personal para la asignatura de HMIS
+
+## Bienvenido a mi página personal
 
 You can use the [editor on GitHub](https://github.com/acc728/acc728.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
